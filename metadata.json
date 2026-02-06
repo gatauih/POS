@@ -1,0 +1,9 @@
+
+{
+  "name": "Enterprise Food OS",
+  "description": "Smart Operating System for Modern Food & Beverage Business.",
+  "requestFramePermissions": [
+    "bluetooth",
+    "geolocation"
+  ]
+}
