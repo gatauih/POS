@@ -81,3 +81,81 @@ Aplikasi akan reload otomatis.
 
 ## 🔑 Login Awal
 
+Username: admin
+Password: 123
+
+
+> Segera ganti password setelah login pertama.
+
+---
+
+## 🎨 Branding Bisnis
+
+Menu **Maintenance**
+- Nama Perusahaan
+- Tagline
+- Logo (URL)
+- Warna Utama Brand
+
+Klik **Update Identitas Bisnis**
+
+---
+
+## 📦 Manajemen Menu & Stok (HPP Otomatis)
+
+1. **Stok Barang**  
+   Input bahan baku dan stok awal
+
+2. **Kategori Menu**  
+   Contoh: Makanan, Minuman
+
+3. **Daftar Menu**  
+   - Tambah menu
+   - Atur Resep / HPP
+   - Tentukan bahan & jumlah
+
+Stok akan otomatis berkurang setiap penjualan.
+
+---
+
+## 👥 Manajemen Karyawan
+
+Menu **Karyawan → Tambah Kru Baru**
+
+Role:
+- **PEMILIK** – Akses penuh & laporan
+- **KASIR** – Transaksi & tutup buku
+- **DAPUR** – Lihat pesanan
+
+---
+
+## 📑 SOP Operasional Harian
+
+1. Absensi Staff
+2. Transaksi Penjualan
+3. Input Pengeluaran
+4. Tutup Buku (Akhir Shift)
+
+Laporan otomatis tersedia untuk Owner.
+
+---
+
+## 📈 Fitur Owner
+
+- Laporan Keuangan Real-Time
+- Laba Bersih Otomatis
+- Menu Engineering (STAR / DOG)
+- Printer Bluetooth Thermal 58mm / 80mm
+
+---
+
+## 📄 Lisensi & Penggunaan
+
+Enterprise Food OS disediakan secara gratis  
+untuk membantu UMKM F&B berkembang.
+
+Gunakan dengan bijak.
+
+
+## 🔑 Login Awal
+
