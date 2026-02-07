@@ -1,10 +1,17 @@
+Klo ada yg error waktu nginstall atau konfigurasi nanti tanya Miul / kholis aja, mereka pernah liat waktu gw nginstall / make aplikasi ini, 
+telegram nya @Miftahfadhlih atau Kholis @Nooooioooooo
+
 # 🚀 Enterprise Food OS (SaaS Edition)
 
-Sistem Operasional Restoran Modern berbasis Cloud  
+Sistem Operasional Restoran Modern / Fast Food / Kaki Lima berbasis Cloud  
 POS • Inventori • HPP • HR • Laporan Keuangan Real-Time
 
-Enterprise Food OS adalah aplikasi manajemen restoran yang dirancang untuk
+Enterprise Food OS adalah aplikasi manajemen bisnis kuliner yang dirancang untuk
 Restoran, Fast Food, Cafe, dan UMKM F&B.
+
+Untuk bisa menggunakan aplikasi ini cuma butuh waktu 5 menit langsung bs online online dan di pale , asalkan punya 2 tools ini, 
+1. Niat : Ikuti Langkah2 disini, baca pelan2
+2. Otak : Pake Otak lo biar ga salah, dan jangan sok tau.
 
 ---
 
@@ -13,7 +20,7 @@ Restoran, Fast Food, Cafe, dan UMKM F&B.
 Aplikasi ini terdiri dari 3 komponen utama:
 
 1. **Aplikasi (Frontend)**  
-   Dihosting di Vercel / Netlify / Server pribadi
+   Dihosting di Hosting Sendiri, Atau Aws atau bagi Si Miskin & Si Pelit bisa Pake Vercel / Netlify
 
 2. **Database (Cloud PostgreSQL)**  
    Menggunakan Supabase
@@ -152,9 +159,11 @@ Laporan otomatis tersedia untuk Owner.
 ## 📄 Lisensi & Penggunaan
 
 Enterprise Food OS disediakan secara gratis  
-untuk membantu UMKM F&B berkembang.
+Tidak ada niat untuk membantu UMKM F&B berkembang, karena nanti saya banyak saingan, 
+saya juga dagang makanan soalnya. 
 
-Gunakan dengan bijak.
+Gunakan dengan bijak. jangn lo jual, kasian yang beli lo tipu teruss. 
+Bagiin aja sebanyaknya,
 
 
 ## 🔑 Login Awal
