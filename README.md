@@ -9,7 +9,7 @@ POS • Inventori • HPP • HR • Laporan Keuangan Real-Time
 Enterprise Food OS adalah aplikasi manajemen bisnis kuliner yang dirancang untuk
 Restoran, Fast Food, Cafe, dan UMKM F&B.
 
-Untuk bisa menggunakan aplikasi ini cuma butuh waktu 5 menit langsung bs online online dan di pale , asalkan punya 2 tools ini, 
+Untuk bisa menggunakan aplikasi ini cuma butuh waktu 5 menit langsung bs online online dan di pake langsung & Powerfull , asalkan punya 2 tools ini, 
 1. Niat : Ikuti Langkah2 disini, baca pelan2
 2. Otak : Pake Otak lo biar ga salah, dan jangan sok tau.
 
@@ -162,7 +162,7 @@ Enterprise Food OS disediakan secara gratis
 Tidak ada niat untuk membantu UMKM F&B berkembang, karena nanti saya banyak saingan, 
 saya juga dagang makanan soalnya. 
 
-Gunakan dengan bijak. jangn lo jual, kasian yang beli lo tipu teruss. 
+Gunakan dengan bijak. Jangan lo jual, kasian yang beli lo tipu teruss. 
 Bagiin aja sebanyaknya,
 
 
