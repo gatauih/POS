@@ -1,5 +1,5 @@
 Klo ada yg error waktu nginstall atau konfigurasi nanti tanya Miul / kholis aja, mereka pernah liat waktu gw nginstall / make aplikasi ini, 
-telegram nya @Miftahfadhlih atau Kholis @Nooooioooooo
+telegram nya @Miftahfadhlih atau Kholis @cholishid
 
 # 🚀 Enterprise Food OS (SaaS Edition)
 
